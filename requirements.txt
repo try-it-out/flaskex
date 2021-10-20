@@ -5,4 +5,3 @@ bcrypt
 requests
 flask-heroku
 gunicorn
-Django
